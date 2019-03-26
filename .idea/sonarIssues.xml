@@ -13,6 +13,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/test/acceptance/test_clf_switcher.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test/acceptance/test_transform.py">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
